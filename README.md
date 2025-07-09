@@ -195,6 +195,8 @@ meu-projeto/
 │   ├── styles/
 │   │   └── main.scss
 │   └── images/
+|   └── scripts
+|       └── main.js
 ├── index.html
 ├── gulpfile.js
 ├── package.json
